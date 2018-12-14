@@ -28,6 +28,6 @@ public class Card {
     }
 
     public String toString(){
-        return "The card is the " + rank + " of " + suit + "with " + pointValue + " points!";
+        return "The card is the " + rank + " of " + suit + " with " + pointValue + " points!";
     }
 }
